@@ -1,0 +1,19 @@
+int a;
+struct test {int test1; char test2;};
+char un;
+
+
+
+
+
+int main(void) {
+
+    struct test t;
+
+    a = 1; un = 'a';
+    t = machin(t, a, un);
+
+    print(a); print(un);
+
+    return 0;
+}

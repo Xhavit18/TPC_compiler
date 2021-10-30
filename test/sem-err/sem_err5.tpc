@@ -1,0 +1,14 @@
+char a(void){
+	return 'a';
+}
+
+void b(void){
+	return 97;
+}
+
+int main(void){
+	print(a());
+	print(b());
+	return 1;
+}
+

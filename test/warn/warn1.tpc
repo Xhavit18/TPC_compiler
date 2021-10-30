@@ -1,0 +1,7 @@
+char salut;
+int a, b;
+
+int main(void){
+	salut = 50;
+	return 0;
+}

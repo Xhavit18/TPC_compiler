@@ -1,0 +1,13 @@
+int main(void) {
+
+    int a, b, et, ou;
+    a = 0;
+    b = 1;
+
+    et = a && b;
+    ou = a || b;
+
+    print(et); print(ou);
+
+    return 0;
+}

@@ -1,0 +1,10 @@
+int somme;
+int max, min, median, mean, quartil;
+
+int argument4(int a, int b, int c, int d){
+	return a+b+c+d;
+}
+
+void main(void){
+	somme = argument4(max, min, median, mean, quartil);
+}

@@ -1,0 +1,33 @@
+// C'est un commentaire.
+/* Ca aussi. */
+
+// Obligé de faire cette ligne sinon ça bug.
+
+int main(void) {
+
+    
+    char c, o, u;
+    int _deux22;
+
+    c = 'c';
+    o = 'o';
+    u = 'u';
+    print(c); print(o); print(u); print(c); print(o); print(u);
+
+    
+    _deux22 = 2;
+    while(_deux22 != 0) {
+
+        readc(c);
+        reade(_deux22);
+    }
+
+    if(c == 'a') {
+
+        return 78;
+        
+    } else {
+
+        return 999;
+    }
+} 

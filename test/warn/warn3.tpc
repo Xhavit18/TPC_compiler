@@ -1,0 +1,6 @@
+struct test{int test1; char test2;};
+
+int main(void){
+	test.test2 = 10;
+	return 1;
+}

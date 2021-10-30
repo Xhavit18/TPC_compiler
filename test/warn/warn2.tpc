@@ -1,0 +1,15 @@
+int a,b,c;
+char s;
+
+int somme(int a, int b, int c){
+	return a+b+c;
+}
+
+char test(void){
+	return 97;
+}
+
+void main(void){
+	s = somme(a,b,c);
+	return;
+}

@@ -1,0 +1,9 @@
+int a;
+
+void change_a(int b){
+	a = b;
+}
+
+int main(void){
+	printf(a);
+}
